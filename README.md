@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/dexyycon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dexyycon" height="30" width="40" /></a>
 <a href="https://twitter.com/dexyycon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dexyycon" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/prosper-gabriel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prosper gabriel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prosper-gabriel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prosper gabriel" height="30" width="40" /></a>
 <a href="https://instagram.com/dexyycon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dexyycon" height="30" width="40" /></a>
 </p>
 
