@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Prosper Gabriel</h1>
 <h3 align="center">currently learning frontend web development</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1xjkMA6xIbgrSW4Z8PFZI0&ust=1711209478522000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj5wMiJiYUDFQAAAAAdAAAAABAE" align="right" width="350" alt="coding"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2kmAZtpj4Oka38I-nUyp0-&ust=1711209577024000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCKzvWJiYUDFQAAAAAdAAAAABAE" align="right" width="350" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobysim&label=Profile%20views&color=0e75b6&style=flat" alt="bobysim" /> </p>
 
